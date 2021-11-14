@@ -1,9 +1,0 @@
-# ignore binaries
-bin/
-
-# ignore vscode folda
-vscode/
-
-# ignore scripts
-push
-compile
